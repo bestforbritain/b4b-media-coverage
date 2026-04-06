@@ -845,6 +845,19 @@
     "data_source": "google_rss"
   },
   {
+    "id": "810dfc49db4d81bcb3a8081574a8d96c",
+    "track": "uktbc",
+    "title": "Manufacturing and construction - UK Trade and Business Commission",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdXYyelI2Rm12VHQtTm9seXJ1OTEwU21NYWRoamZjZ2dFNE9FWGJXQkNGSFpiS0h0Qy1CazdmbTVqeUg2Q3JsV0xCNkF2V1cwSUdDcnNYUVhtb1pjWERjb0VkZnhoSUE3Q1BQb0VXY0dKajc3UmYzUUtzaWZkZGJnWA?oc=5",
+    "source_name": "UK Trade and Business Commission",
+    "source_domain": "tradeandbusiness.uk",
+    "published_at": "2026-01-19T08:00:00.000Z",
+    "first_seen_at": "2026-04-06T19:10:23.424Z",
+    "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQdXYyelI2Rm12VHQtTm9seXJ1OTEwU21NYWRoamZjZ2dFNE9FWGJXQkNGSFpiS0h0Qy1CazdmbTVqeUg2Q3JsV0xCNkF2V1cwSUdDcnNYUVhtb1pjWERjb0VkZnhoSUE3Q1BQb0VXY0dKajc3UmYzUUtzaWZkZGJnWA?oc=5\" target=\"_blank\"&gt;Manufacturing and construction&lt;/a&gt;&amp;nb",
+    "thumbnail_url": "",
+    "data_source": "google_rss"
+  },
+  {
     "id": "d3466d4a77b1ade69762d0859008eb56",
     "track": "best-for-britain",
     "title": "Best for Britain survey: majority support single market access",
@@ -3796,6 +3809,19 @@
     "data_source": "google_rss"
   },
   {
+    "id": "62e753345b724552d7b7b76260d10813",
+    "track": "best-for-britain",
+    "title": "Report: Quantifying the opportunities for economic growth - bestforbritain.org",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OOFZkQzJPY2hLWHFnaGU4Q1o4R1VtN3NUa1JiU3FYV2VHV3d1Y0t0aDlNYXlVcGNoN2w4RllyQnhDZXY4SVFCYnBoUFNpY1p5OF9WSWRiMA?oc=5",
+    "source_name": "bestforbritain.org",
+    "source_domain": "bestforbritain.org",
+    "published_at": "2025-02-06T14:34:07.000Z",
+    "first_seen_at": "2026-04-06T19:10:22.776Z",
+    "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OOFZkQzJPY2hLWHFnaGU4Q1o4R1VtN3NUa1JiU3FYV2VHV3d1Y0t0aDlNYXlVcGNoN2w4RllyQnhDZXY4SVFCYnBoUFNpY1p5OF9WSWRiMA?oc=5\" target=\"_blank\"&gt;Report: Quantifying the opportunities for economic growth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"",
+    "thumbnail_url": "",
+    "data_source": "google_rss"
+  },
+  {
     "id": "8b54805b49f122ccb6b6766e680a2e31",
     "track": "uktbc",
     "title": "Why we should all know about Mutual Recognition Agreements of Conformity Assessments - UK Trade and Business Commission",
@@ -4056,6 +4082,19 @@
     "data_source": "google_rss"
   },
   {
+    "id": "682f99ce9155080e7fcc6d1e89159414",
+    "track": "best-for-britain",
+    "title": "Carma Elliot - bestforbritain.org",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pc0VuZFJ6RTEwd09vRndCeTRzQmlYbXZ2SzNCX0hwTHZQdERJMTBWWWxIMEhYUDNtSEh6cWNKRU5yWHd0Wk0yM2IxTTV1R21ycEpVcnJ3?oc=5",
+    "source_name": "bestforbritain.org",
+    "source_domain": "bestforbritain.org",
+    "published_at": "2024-11-29T18:08:18.000Z",
+    "first_seen_at": "2026-04-06T19:10:22.776Z",
+    "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pc0VuZFJ6RTEwd09vRndCeTRzQmlYbXZ2SzNCX0hwTHZQdERJMTBWWWxIMEhYUDNtSEh6cWNKRU5yWHd0Wk0yM2IxTTV1R21ycEpVcnJ3?oc=5\" target=\"_blank\"&gt;Carma Elliot&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;bestforbritain.org&lt;/font&gt;",
+    "thumbnail_url": "",
+    "data_source": "google_rss"
+  },
+  {
     "id": "03c010a254f245e64bd243a3d89a21ec",
     "track": "uktbc",
     "title": "The headline costs of Brexit - UK Trade and Business Commission",
@@ -4234,6 +4273,19 @@
     "published_at": "2024-10-10T07:00:00.000Z",
     "first_seen_at": "2026-03-31T19:10:25.752Z",
     "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JT1U1eXB0YVYxRHpkWlFhdVZ1Vk1sZC1TVzIydWZzNXEtcVh5Qi0yNTJGTjRfT2Q4aDZXdHVEZ292YWRqTEVKbW1qQm95RUdYdzhOZjc2Q0V0OGdQOTBJOA?oc=5\" target=\"_blank\"&gt;Board of Trade: Trade Secretary makes first steps in what should be a total overhaul&lt;/a&",
+    "thumbnail_url": "",
+    "data_source": "google_rss"
+  },
+  {
+    "id": "1a29adf6e575ea7c41f4cf489b62cc42",
+    "track": "best-for-britain",
+    "title": "Content in the topic of Far right - bestforbritain.org",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sOG5pdmM3YUUwTHQ0U1NWZkVtVkp5R3R0Y2RoZkFHeDU2TFBfVk5LVHdmeWRBRnAwSmd4SVkxdlRrWGFHM1FTQWRPRnlMT0tHQkVzM2hxNFhDckphVnRveQ?oc=5",
+    "source_name": "bestforbritain.org",
+    "source_domain": "bestforbritain.org",
+    "published_at": "2024-10-09T02:39:23.000Z",
+    "first_seen_at": "2026-04-06T19:10:22.776Z",
+    "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sOG5pdmM3YUUwTHQ0U1NWZkVtVkp5R3R0Y2RoZkFHeDU2TFBfVk5LVHdmeWRBRnAwSmd4SVkxdlRrWGFHM1FTQWRPRnlMT0tHQkVzM2hxNFhDckphVnRveQ?oc=5\" target=\"_blank\"&gt;Content in the topic of Far right&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;",
     "thumbnail_url": "",
     "data_source": "google_rss"
   },
@@ -4446,6 +4498,19 @@
     "data_source": "google_rss"
   },
   {
+    "id": "df9c020a0c3005e3d0d3233289f037b7",
+    "track": "best-for-britain",
+    "title": "Best for Britain - policycommons.net",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aZ0EyWnZySzZOZm9Oa2RDZlVjdUhNTUJhQ2tPTXdKUE1jMGtlLUVMVmNOaW5DODBXcEtMR1BwVjVJWE10cDNaT1FsX2RZYmwzOWpPWURkNnBxZzE5?oc=5",
+    "source_name": "policycommons.net",
+    "source_domain": "policycommons.net",
+    "published_at": "2024-05-22T02:22:46.000Z",
+    "first_seen_at": "2026-04-06T19:10:22.776Z",
+    "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aZ0EyWnZySzZOZm9Oa2RDZlVjdUhNTUJhQ2tPTXdKUE1jMGtlLUVMVmNOaW5DODBXcEtMR1BwVjVJWE10cDNaT1FsX2RZYmwzOWpPWURkNnBxZzE5?oc=5\" target=\"_blank\"&gt;Best for Britain&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;policycommons.net&lt;/f",
+    "thumbnail_url": "",
+    "data_source": "google_rss"
+  },
+  {
     "id": "9714f02706b222899dd6725768082b78",
     "track": "best-for-britain",
     "title": "The headline costs of Brexit - Best for Britain",
@@ -4641,6 +4706,19 @@
     "data_source": "google_rss"
   },
   {
+    "id": "69ade4c48603a288cea4305ed1e24fb7",
+    "track": "best-for-britain",
+    "title": "Action Finder - bestforbritain.org",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MTkp4Ri1yMTNjRmp2TkNzVGdpcXVMLVFJTHJCa3FEeTN3cEthUU5PZ0pGYlBMWGRFSm5XMEdEaTM0U0lHTjhic0FzYVBYa1NxUHE0MTgyOA?oc=5",
+    "source_name": "bestforbritain.org",
+    "source_domain": "bestforbritain.org",
+    "published_at": "2024-02-17T12:09:51.000Z",
+    "first_seen_at": "2026-04-06T19:10:22.776Z",
+    "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MTkp4Ri1yMTNjRmp2TkNzVGdpcXVMLVFJTHJCa3FEeTN3cEthUU5PZ0pGYlBMWGRFSm5XMEdEaTM0U0lHTjhic0FzYVBYa1NxUHE0MTgyOA?oc=5\" target=\"_blank\"&gt;Action Finder&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;bestforbritain.org&lt;/font&gt;",
+    "thumbnail_url": "",
+    "data_source": "google_rss"
+  },
+  {
     "id": "f6336516dbb970207bb6441efd021607",
     "track": "uktbc",
     "title": "Progress to date: Beneficial Alignment - UK Trade and Business Commission",
@@ -4819,6 +4897,19 @@
     "published_at": "2023-10-17T14:30:52.000Z",
     "first_seen_at": "2026-03-27T13:19:50.685Z",
     "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE43OXZDQURNbE00aWZNSGdCV2U5VV9KZk1KWEFRTGEtc2lrZkZ4SWRIMEpkSHFKaWMtVEt5QXFUS19MeUNCVW1NMkxhZk1FdGdXSmc?oc=5\" target=\"_blank\"&gt;Ask Think&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Best for Britain&lt;/font&gt;",
+    "thumbnail_url": "",
+    "data_source": "google_rss"
+  },
+  {
+    "id": "38a2c849b87e7d27b83fba8bd14500ff",
+    "track": "best-for-britain",
+    "title": "The view from Brighton - Best for Britain at Green Party Conference - bestforbritain.org",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkVZSnlFMTRNUXMwQVJZdW9iMDNSN3dBbHVNVzBfbUh2bjlyeEZOYUlEQ1c1MTJmYXhtOWNLNkx5eVBzTm1ldHJhUnU5dThsQmc4NF9kOUN6MVJqaHRzdFY1TExyVnhPTHc5UXpFcTFWbHhiMWpmcW80YXNXZEF2UTVqUlJPSW5qRHF5REJTdHJIRXg5eEViSUNOQkI?oc=5",
+    "source_name": "bestforbritain.org",
+    "source_domain": "bestforbritain.org",
+    "published_at": "2023-10-06T07:00:00.000Z",
+    "first_seen_at": "2026-04-06T19:10:22.776Z",
+    "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkVZSnlFMTRNUXMwQVJZdW9iMDNSN3dBbHVNVzBfbUh2bjlyeEZOYUlEQ1c1MTJmYXhtOWNLNkx5eVBzTm1ldHJhUnU5dThsQmc4NF9kOUN6MVJqaHRzdFY1TExyVnhPTHc5UXpFcTFWbHhiMWpmcW80YXNXZEF2UTVqUlJPSW5qRHF5REJTdHJIRXg5eEViSUNOQkI?oc=5\" target=\"_blank\"&gt;The view f",
     "thumbnail_url": "",
     "data_source": "google_rss"
   },
@@ -5170,6 +5261,19 @@
     "published_at": "2023-05-31T21:42:03.000Z",
     "first_seen_at": "2026-03-23T19:03:38.086Z",
     "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tRkgzOTZKRXNudVB0QkxEYjR4MnZ0REswMnlLaUtIVUtMUEEtX1o0LVNOSHQ1Z2JzOWlfNDF0RDI5cDNucW52U3U4Nm1YYmxwZXNlTXZpUEVkX0E?oc=5\" target=\"_blank\"&gt;Recommendations&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;UK Trade and Business Com",
+    "thumbnail_url": "",
+    "data_source": "google_rss"
+  },
+  {
+    "id": "ec3ed0669f129a206c9ebbd024cdb71b",
+    "track": "best-for-britain",
+    "title": "Immigration good for economy and society - bestforbritain.org",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55YkdkM0h2Qm5pR3R6LXUyYmdtRUMxWmtoa1lScnhSM2paNFFlUUx5NlRxS2lERVZjMlpJVFFTTEpOdlhELUlFa2dwM25nT0NYcW9zNGZQSE1ZdXRJUVg3ZVg3NkdSNTJ2cEE3RTZaemw2ZVdJdDVuYnFZdw?oc=5",
+    "source_name": "bestforbritain.org",
+    "source_domain": "bestforbritain.org",
+    "published_at": "2023-05-25T07:00:00.000Z",
+    "first_seen_at": "2026-04-06T19:10:22.776Z",
+    "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE55YkdkM0h2Qm5pR3R6LXUyYmdtRUMxWmtoa1lScnhSM2paNFFlUUx5NlRxS2lERVZjMlpJVFFTTEpOdlhELUlFa2dwM25nT0NYcW9zNGZQSE1ZdXRJUVg3ZVg3NkdSNTJ2cEE3RTZaemw2ZVdJdDVuYnFZdw?oc=5\" target=\"_blank\"&gt;Immigration good for economy and society&lt;/a&gt;&amp;",
     "thumbnail_url": "",
     "data_source": "google_rss"
   },
@@ -6240,6 +6344,19 @@
     "data_source": "google_rss"
   },
   {
+    "id": "401c9c8615c4bd501fcd012c57a0d88e",
+    "track": "best-for-britain",
+    "title": "Opposition Party Co-operation - bestforbritain.org",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1UzczNVY3VFgycHNSZWVOeHZ6S2xDcEwwNWhXUEs4RE5rLS1SV2ZsRzVod1VSN0JvM1oxT0VOOGlJdVhXX0EtMmFvQ1BjWkk4UV9vWFRB?oc=5",
+    "source_name": "bestforbritain.org",
+    "source_domain": "bestforbritain.org",
+    "published_at": "2019-05-27T09:50:29.000Z",
+    "first_seen_at": "2026-04-06T19:10:22.776Z",
+    "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1UzczNVY3VFgycHNSZWVOeHZ6S2xDcEwwNWhXUEs4RE5rLS1SV2ZsRzVod1VSN0JvM1oxT0VOOGlJdVhXX0EtMmFvQ1BjWkk4UV9vWFRB?oc=5\" target=\"_blank\"&gt;Opposition Party Co-operation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;bestforbritain.org",
+    "thumbnail_url": "",
+    "data_source": "google_rss"
+  },
+  {
     "id": "10819f94c786d3e4caeb2e6dfc7206ee",
     "track": "best-for-britain",
     "title": "Dyson move to Singapore shows \"staggering hypocrisy\" - Layla Moran - Best for Britain",
@@ -6405,6 +6522,19 @@
     "published_at": "2018-03-02T20:00:12.000Z",
     "first_seen_at": "2026-03-24T02:38:35.321Z",
     "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SdktfS0dSRVFWQXJSUEJrZkg2S2tLUFRmaHR6X1FNQzlod2xPd3VvdTJfQWRBSExqdUxOMEg5Q2czcFVOTGJibVZwR3hnUQ?oc=5\" target=\"_blank\"&gt;Donate&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Best for Britain&lt;/font&gt;",
+    "thumbnail_url": "",
+    "data_source": "google_rss"
+  },
+  {
+    "id": "e117130bac858fe01d1d67faa6ea78a4",
+    "track": "best-for-britain",
+    "title": "Join Best for Britain - bestforbritain.org",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CVThrWnNJVVlZZ1pjTElCdEd4Qy1waHVjeW1NYjZjblkzTGdWa05oUTc1VzBLSWhEeE10MXhpVllYWW5ENFFnUnZvVQ?oc=5",
+    "source_name": "bestforbritain.org",
+    "source_domain": "bestforbritain.org",
+    "published_at": "2018-03-02T19:58:58.000Z",
+    "first_seen_at": "2026-04-06T19:10:22.776Z",
+    "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CVThrWnNJVVlZZ1pjTElCdEd4Qy1waHVjeW1NYjZjblkzTGdWa05oUTc1VzBLSWhEeE10MXhpVllYWW5ENFFnUnZvVQ?oc=5\" target=\"_blank\"&gt;Join Best for Britain&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;bestforbritain.org&lt;/font&gt;",
     "thumbnail_url": "",
     "data_source": "google_rss"
   },
