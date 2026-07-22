@@ -12922,6 +12922,19 @@
     "data_source": "google_rss"
   },
   {
+    "id": "a5d0a5b45d1ec1feb92d452ad1ca02db",
+    "track": "best-for-britain",
+    "title": "Best for Britain - The Org",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YUnE3Y19TanhEdEZEVFZvWGxQNEZCaWtqa2ZqWTBkcmRnb01ZUk9NOTgzbWpSZzk1c0JYN3VFVFdJdmNON3dFQ2dVU2NwQjJt?oc=5",
+    "source_name": "The Org",
+    "source_domain": "theorg.com",
+    "published_at": "2022-01-12T03:33:39.000Z",
+    "first_seen_at": "2026-07-22T14:08:10.812Z",
+    "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YUnE3Y19TanhEdEZEVFZvWGxQNEZCaWtqa2ZqWTBkcmRnb01ZUk9NOTgzbWpSZzk1c0JYN3VFVFdJdmNON3dFQ2dVU2NwQjJt?oc=5\" target=\"_blank\"&gt;Best for Britain&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Org&lt;/font&gt;",
+    "thumbnail_url": "",
+    "data_source": "google_rss"
+  },
+  {
     "id": "c7dcbdf42297176a4dbc7bb5e7456e04",
     "track": "best-for-britain",
     "title": "Nationality and Borders - Best for Britain",
