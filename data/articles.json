@@ -1,5 +1,44 @@
 [
   {
+    "id": "dd0e16ba1d2cad10500ed6fe2fbafb75",
+    "track": "best-for-britain",
+    "title": "True cost of Brexit on UK trade revealed as calls to rejoin single market grow - The Independent",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcE5rN0J4Z2wwNEV0M1QwQVhGZTFUT2lhck9uQTlFNHkyRFU1ckRVNEtSRWt6aF9TdnJwb0RnejJheFExSThhOUt3YnlnRTVoZXlBSldfS1UwWFhzODNOWEh4cUM2YjFIYTQyeHpUbWx4QXdVMW9zS3VnOE9aRGRjZDZ6QnQ4MllUX0pnd3J0ellSTWJleFNXVTJvY1hnMWJmSEdkanVqOHUwZw?oc=5",
+    "source_name": "The Independent",
+    "source_domain": "independent.co.uk",
+    "published_at": "2026-08-28T17:33:00.000Z",
+    "first_seen_at": "2026-08-28T22:02:14.077Z",
+    "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcE5rN0J4Z2wwNEV0M1QwQVhGZTFUT2lhck9uQTlFNHkyRFU1ckRVNEtSRWt6aF9TdnJwb0RnejJheFExSThhOUt3YnlnRTVoZXlBSldfS1UwWFhzODNOWEh4cUM2YjFIYTQyeHpUbWx4QXdVMW9zS3VnOE9aRGRjZDZ6QnQ4MllUX0pnd3J0ellSTWJleFNXVTJvY1hnMWJmSEdkanVqOHUwZw?oc=5\" target=\"_b",
+    "thumbnail_url": "",
+    "data_source": "google_rss"
+  },
+  {
+    "id": "a65eff3b1d37da8685410cf0c81000d1",
+    "track": "best-for-britain",
+    "title": "Farage demands crackdown on non-English speaking Britons voting in elections - The Independent",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDBnSlNRWUhZOHNTM3BtUUo0bUpTdE52N3Q2ZTNTQm9YUzg5SDBFSVRwMjBEb19kbFh0YnN3ZE9EV2tBemxFcWsweEdNeXNRUUV6aW9vZktOQ0RxQ2xDUjlqMUQ5WmdLZWRkQzVWdmpYNFpOcHN4dGdlMnJTaGVGbmRNcFhNb0pvWENNTV9ra0k5SVlSdkhGV2hLcHhvTUFEaGpYdWc2QzBQVXFSSWFaekZlVHU?oc=5",
+    "source_name": "The Independent",
+    "source_domain": "independent.co.uk",
+    "published_at": "2026-08-28T16:37:00.000Z",
+    "first_seen_at": "2026-08-28T22:02:14.077Z",
+    "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDBnSlNRWUhZOHNTM3BtUUo0bUpTdE52N3Q2ZTNTQm9YUzg5SDBFSVRwMjBEb19kbFh0YnN3ZE9EV2tBemxFcWsweEdNeXNRUUV6aW9vZktOQ0RxQ2xDUjlqMUQ5WmdLZWRkQzVWdmpYNFpOcHN4dGdlMnJTaGVGbmRNcFhNb0pvWENNTV9ra0k5SVlSdkhGV2hLcHhvTUFEaGpYdWc2QzBQVXFSSWFaekZlVHU?oc=",
+    "thumbnail_url": "",
+    "data_source": "google_rss"
+  },
+  {
+    "id": "f3d2ca0fe29b139e8651b41304b97718",
+    "track": "best-for-britain",
+    "title": "Reform vows to block voters who cannot speak English - The Telegraph",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWl9VS2l5bWRjZ1pwS3hmcHV5VTloelVmRy1XNGVNc2NwckhCc29JRV9VekNLekQ4QU5nTmJqd0VhTzZYZWdWSUh1SDJxTmVrUTBTcTZNTXc5MUpQUkgzbmNsWFVaRVEyV2JGTmFTLTdZMmJkU2F3QU56cm9xYmdqaTBKZjJCZkl4RFpBVTB5Ulh5ZTQ?oc=5",
+    "source_name": "The Telegraph",
+    "source_domain": "telegraph.co.uk",
+    "published_at": "2026-08-27T21:00:00.000Z",
+    "first_seen_at": "2026-08-28T22:02:14.077Z",
+    "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOWl9VS2l5bWRjZ1pwS3hmcHV5VTloelVmRy1XNGVNc2NwckhCc29JRV9VekNLekQ4QU5nTmJqd0VhTzZYZWdWSUh1SDJxTmVrUTBTcTZNTXc5MUpQUkgzbmNsWFVaRVEyV2JGTmFTLTdZMmJkU2F3QU56cm9xYmdqaTBKZjJCZkl4RFpBVTB5Ulh5ZTQ?oc=5\" target=\"_blank\"&gt;Reform vows to block v",
+    "thumbnail_url": "",
+    "data_source": "google_rss"
+  },
+  {
     "id": "2479d0202dcf6e0b596221f9bb720801",
     "track": "best-for-britain",
     "title": "Raft of Senior Reform Councillors Fail to Declare Interests - Byline Times",
@@ -282,6 +321,19 @@
     "published_at": "2026-08-22T21:51:00.000Z",
     "first_seen_at": "2026-08-23T06:49:18.920Z",
     "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPeFM4WGsyLW80RzhVb3lXUEVIR3hHeXF5Y2NPREk3bzYwY25neGdiODVhZFRZWWR5LTgzVnZkaWpKV0d5dDNJdUJxdy1CaVJFTG5nWDcyOUNQRzQ5NzRlQVY3Vk1RZ3VXd2YyTEJsbFJ2STJBbmpuVUo5dFhfSkJBbXd1RnFwSVRueGVWNHVnSUpHaUlXOENkY2xLcFRTQTB1b25VQ3RfY1VDUG1vQkNiX0ZNaWwxbmk",
+    "thumbnail_url": "",
+    "data_source": "google_rss"
+  },
+  {
+    "id": "eae563fb5e6dc21a6ae7c64f84baae81",
+    "track": "best-for-britain",
+    "title": "Help us track Reform UK defections and resignations - Best for Britain",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxTjktWnBCaklUY0R3UC1RM2VSNnJSdlJzOFR5WEVuSTlwN2ZRa3Vta0NtMGgtSmFnVXhmWDhEeFFCZmZfQzdGYjhDY1A1cmFYSDBaUU5rRTdVM3R2VGJGR1RZTjRrRmtWRXp4UWVaNnQ?oc=5",
+    "source_name": "Best for Britain",
+    "source_domain": "bestforbritain.org",
+    "published_at": "2026-08-22T20:18:15.000Z",
+    "first_seen_at": "2026-08-28T22:02:14.077Z",
+    "snippet": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAxTjktWnBCaklUY0R3UC1RM2VSNnJSdlJzOFR5WEVuSTlwN2ZRa3Vta0NtMGgtSmFnVXhmWDhEeFFCZmZfQzdGYjhDY1A1cmFYSDBaUU5rRTdVM3R2VGJGR1RZTjRrRmtWRXp4UWVaNnQ?oc=5\" target=\"_blank\"&gt;Help us track Reform UK defections and resignations&lt;/a&gt;&amp;nbsp",
     "thumbnail_url": "",
     "data_source": "google_rss"
   },
