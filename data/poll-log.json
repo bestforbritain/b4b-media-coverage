@@ -62508,5 +62508,75 @@
     "source": "google_rss",
     "results": 0,
     "status": "ok"
+  },
+  {
+    "track": "best-for-britain",
+    "polled_at": "2026-11-16T15:22:03.819Z",
+    "source": "google_cse",
+    "results": 0,
+    "status": "error"
+  },
+  {
+    "track": "best-for-britain",
+    "polled_at": "2026-11-16T15:22:03.819Z",
+    "source": "google_rss",
+    "results": 0,
+    "status": "error"
+  },
+  {
+    "track": "uktbc",
+    "polled_at": "2026-11-16T15:22:03.819Z",
+    "source": "google_cse",
+    "results": 0,
+    "status": "error"
+  },
+  {
+    "track": "uktbc",
+    "polled_at": "2026-11-16T15:22:03.819Z",
+    "source": "google_rss",
+    "results": 0,
+    "status": "error"
+  },
+  {
+    "track": "naomi-smith",
+    "polled_at": "2026-11-16T15:22:03.819Z",
+    "source": "google_cse",
+    "results": 0,
+    "status": "error"
+  },
+  {
+    "track": "naomi-smith",
+    "polled_at": "2026-11-16T15:22:03.819Z",
+    "source": "google_rss",
+    "results": 0,
+    "status": "error"
+  },
+  {
+    "track": "peter-norris",
+    "polled_at": "2026-11-16T15:22:03.819Z",
+    "source": "google_cse",
+    "results": 0,
+    "status": "error"
+  },
+  {
+    "track": "peter-norris",
+    "polled_at": "2026-11-16T15:22:03.819Z",
+    "source": "google_rss",
+    "results": 0,
+    "status": "error"
+  },
+  {
+    "track": "hilary-benn",
+    "polled_at": "2026-11-16T15:22:03.819Z",
+    "source": "google_cse",
+    "results": 0,
+    "status": "error"
+  },
+  {
+    "track": "hilary-benn",
+    "polled_at": "2026-11-16T15:22:03.819Z",
+    "source": "google_rss",
+    "results": 0,
+    "status": "error"
   }
 ]
